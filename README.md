@@ -29,7 +29,7 @@ A technical game that can be conducted in college's tech-fest.
 | C03 | 5154 | 3 |
 
 <br />
-- Table 2 :DATA table<br />
+- Table 2 :DATA table <br />
       
 | id | code |
 | :---: | :---: |

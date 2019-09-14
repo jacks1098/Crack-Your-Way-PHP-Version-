@@ -19,6 +19,23 @@ A technical game that can be conducted in college's tech-fest.
   - The team have to guess the code using hint and submit the correct code to get next question.
   - After solving all 20 questions a final question will be displayed which is common for all team.
   - After that winner page will be displayed.
+  # Database:
+   - Table 1 :USER table<br />
+      
+| id | password | qid |
+| :---: | :---: | :---: |
+| C01 | 1134 | 1 |
+| C02 | 2124 | 2 |
+| C03 | 5154 | 3 |
+
+<br />
+- Table 2 :DATA table<br />
+      
+| id | code |
+| :---: | :---: |
+| 1 | 000000 |
+| 2 | 000000 |
+| 3 | 000000|
   
   # Implemented website(PHP) and credentials:
     -> cyw-2019.000webhostapp.com
